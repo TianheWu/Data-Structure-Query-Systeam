@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="add_image">
+    <file>line06.png</file>
+    <file>line04.png</file>
+    <file>line02.png</file>
+    <file>line14_2.png</file>
+    <file>line14_1.png</file>
+    <file>line10.png</file>
+    <file>line9.png</file>
+    <file>line5.png</file>
+    <file>line4.png</file>
+    <file>lin2.png</file>
+    <file>line1.png</file>
+    <file>label_image_2.png</file>
+    <file>label_image_1.png</file>
+  </qresource>
+  <qresource>
+    <file>line05.png</file>
+    <file>line03.png</file>
+    <file>line01.png</file>
+    <file>line13.png</file>
+    <file>line8.png</file>
+    <file>line7.png</file>
+    <file>line6.png</file>
+    <file>line5.png</file>
+  </qresource>
+</RCC>
